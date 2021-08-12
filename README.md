@@ -5,4 +5,4 @@ The course is available on udemy and other locations. You can also find more coo
 
 ## Projects
 
-Chapter 4: [Task List]()
+Chapter 4: [Task List](https://thebimsider.github.io/modern-javascript-projects/task-list/)
