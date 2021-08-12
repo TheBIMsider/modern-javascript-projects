@@ -5,6 +5,6 @@ The course is available on udemy and other locations. You can also find more coo
 
 ## Projects
 
-Chapter 4: [Task List](https://thebimsider.github.io/modern-javascript-projects/task-list/)
-Chapter 4: Loan Calculator (coming soon)
-Chapter 4: Number Guesser (coming soon)
+Chapter 4: [Task List](https://thebimsider.github.io/modern-javascript-projects/task-list/)  
+Chapter 4: Loan Calculator (coming soon)  
+Chapter 4: Number Guesser (coming soon)  
