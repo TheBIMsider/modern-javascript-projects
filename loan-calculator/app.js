@@ -13,7 +13,6 @@ document.getElementById("loan-form").addEventListener("submit", function (e) {
 
 // Calculate Results
 function calculateResults() {
-  console.log("calculating...");
   // UI Vars
   const amount = document.getElementById("amount");
   const interest = document.getElementById("interest");
