@@ -10,3 +10,4 @@ Chapter 4: [Loan Calculator](https://thebimsider.github.io/modern-javascript-pro
 Chapter 4: [Number Guesser](https://thebimsider.github.io/modern-javascript-projects/number-guesser/)  
 
 Chapter 6: [Book List](https://thebimsider.github.io/modern-javascript-projects/booklist-es5/) (ES5 Prototype version)   
+Chapter 6: [Book List](https://thebimsider.github.io/modern-javascript-projects/booklist-es6/) (ES6 Class version with local storage)   
