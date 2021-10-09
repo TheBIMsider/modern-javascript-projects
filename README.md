@@ -9,4 +9,4 @@ Chapter 4: [Task List](https://thebimsider.github.io/modern-javascript-projects/
 Chapter 4: [Loan Calculator](https://thebimsider.github.io/modern-javascript-projects/loan-calculator/)    
 Chapter 4: [Number Guesser](https://thebimsider.github.io/modern-javascript-projects/number-guesser/)  
 
-Chapter 6: OOP Book List Project (coming soon)
+Chapter 6: [Book List](https://thebimsider.github.io/modern-javascript-projects/booklist-es5/) (ES5 Prototype version)   
