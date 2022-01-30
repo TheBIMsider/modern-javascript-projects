@@ -12,4 +12,4 @@ Chapter 4: [Number Guesser](https://thebimsider.github.io/modern-javascript-proj
 Chapter 6: [Book List](https://thebimsider.github.io/modern-javascript-projects/booklist-es5/) (ES5 Prototype version)   
 Chapter 6: [Book List](https://thebimsider.github.io/modern-javascript-projects/booklist-es6/) (ES6 Class version with local storage)   
 
-Chapter 7: [Chuck Norris Joke Genorator](https://thebimsider.github.io/modern-javascript-projects/chucknorrisjokes/) (Using ICBdb api))   
+Chapter 7: [Chuck Norris Joke Generator](https://thebimsider.github.io/modern-javascript-projects/chucknorrisjokes/) (Using the [CNDb.com](http://www.icndb.com/api/) api) 
