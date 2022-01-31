@@ -9,7 +9,7 @@ function getRanJoke(e) {
 
       if(this.status === 200) {
         const response = JSON.parse(this.responseText);
-        document.querySelector(".jokes").innerHTML = `<h3>${response.value}</h3>`;
+        document.querySelector(".jokes").innerHTML = `<h1>${response.value}</h1>`;
       }
     }
 
@@ -31,7 +31,7 @@ console.log(category);
 
     if(this.status === 200) {
       const response = JSON.parse(this.responseText);
-      document.querySelector(".jokes").innerHTML = `<h3>${response.value}</h3>`;
+      document.querySelector(".jokes").innerHTML = `<h2>${response.value}</h2>`;
     }
   }
 
